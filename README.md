@@ -4,7 +4,7 @@ AgroTrack is a Progressive Web App (PWA) for recording and managing plant cultiv
 
 ## Live Demo
 
-**Application URL:** [AgroTrack – Live Demo](YOUR_VERCEL_DEPLOYMENT_URL)
+**Application URL:** [AgroTrack – Live Demo]([https://agrotrack-orcin.vercel.app/])
 
 ## Features
 
